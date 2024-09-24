@@ -38,13 +38,13 @@ public class App {
 
     // Factorial de un número
     public static int factorial(int n) {
-         if (n <= 1) return 1;
+        if (n <= 1) return 1;
         return n * factorial(n - 1);
     }
 
     // Número par
     public static boolean esPar(int n) {
-        return true;
+        return n % 2 == 0;
     }
 
     // Número impar
