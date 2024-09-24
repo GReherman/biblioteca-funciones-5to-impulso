@@ -105,7 +105,7 @@ public class App {
 
     // Encontrar el máximo en un array
     public static int maxArray(int[] array) {
-      
+      //prueba 1!!
         return 3;
     }
 
