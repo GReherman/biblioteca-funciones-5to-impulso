@@ -112,7 +112,7 @@ public class App {
 
     // Encontrar el mínimo en un array
     public static int minArray(int[] array) {
-
+        //Otro comentario
         return 3;
     }
 
